@@ -2,6 +2,8 @@
 
 A real-time chat application built with **React**, **Node.js**, **Socket.io**, and **MongoDB**. Features instant messaging, username-based login, typing indicators, online/offline status, and message read/delivered receipts.
 
+**Deployed on Render** (frontend + backend) with **MongoDB Atlas**. Live at: `https://real-time-chat.onrender.com`
+
 ## Features
 
 - Real-time messaging via Socket.io
